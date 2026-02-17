@@ -76,6 +76,8 @@ Use the provided pair of properties for best coverage:
 - `icora-filter-f`
 - `icora-person-add-o`
 - `icora-login-o`
+- `icora-trash`
+- `icora-coupon`
 
 ## Tips & Troubleshooting
 - If an icon doesn’t show, ensure the element has color (icons use `background-color: currentColor`).
@@ -88,5 +90,6 @@ PRs welcome. If you add icons, include:
 - The CSS block in `icora.css`
 ## License
 MIT
+
 
 
