@@ -80,7 +80,12 @@ Use the provided pair of properties for best coverage:
 - `icora-coupon`
 - `icora-lorry`
 - `icora-bill` 
-- `icora-picnic-basket` 
+- `icora-picnic-basket`
+- `icora-delivery`
+- `icora-contact`
+- `icora-map-pin`
+- `icora-gift`
+- `icora-note` 
 
 ## Tips & Troubleshooting
 - If an icon doesn’t show, ensure the element has color (icons use `background-color: currentColor`).
@@ -93,6 +98,7 @@ PRs welcome. If you add icons, include:
 - The CSS block in `icora.css`
 ## License
 MIT
+
 
 
 
