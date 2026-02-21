@@ -85,7 +85,11 @@ Use the provided pair of properties for best coverage:
 - `icora-contact`
 - `icora-map-pin`
 - `icora-gift`
-- `icora-note` 
+- `icora-note`
+- `icora-person-circle`
+- `icora-credit-card`
+- `icora-calendar` 
+- `icora-lock` 
 
 ## Tips & Troubleshooting
 - If an icon doesn’t show, ensure the element has color (icons use `background-color: currentColor`).
@@ -98,6 +102,7 @@ PRs welcome. If you add icons, include:
 - The CSS block in `icora.css`
 ## License
 MIT
+
 
 
 
